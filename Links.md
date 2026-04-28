@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 10:14 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.8.0.apk](https://github.com/farzadsfx/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.0.apk) `18.0MB`
+
+- 📥 [mhrv-rs-linux-amd64.tar.gz](https://github.com/farzadsfx/sandbox/raw/main/dl/mhrv-rs-linux-amd64.tar.gz) `8.1MB`
+
+---
+
+
 ### 📅 2026-04-28 00:50 IR
 - 🗜️ [مهمان ویژه و اعتیاد جدید کورش! - دگم نباش 60.mp4.zip](https://github.com/farzadsfx/sandbox/raw/main/dl/%D9%85%D9%87%D9%85%D8%A7%D9%86%20%D9%88%DB%8C%DA%98%D9%87%20%D9%88%20%D8%A7%D8%B9%D8%AA%DB%8C%D8%A7%D8%AF%20%D8%AC%D8%AF%DB%8C%D8%AF%20%DA%A9%D9%88%D8%B1%D8%B4%21%20-%20%D8%AF%DA%AF%D9%85%20%D9%86%D8%A8%D8%A7%D8%B4%2060.mp4.zip) `94.0MB`
 

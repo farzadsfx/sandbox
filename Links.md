@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 21:23 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.9.3.apk](https://github.com/farzadsfx/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.3.apk) `18.1MB`
+
+- 📥 [mhrv-rs-linux-amd64.tar.gz](https://github.com/farzadsfx/sandbox/raw/main/dl/mhrv-rs-linux-amd64.tar.gz) `8.1MB`
+
+---
+
+
 ### 📅 2026-04-28 16:47 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.8.2.apk](https://github.com/farzadsfx/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.2.apk) `18.0MB`
 
